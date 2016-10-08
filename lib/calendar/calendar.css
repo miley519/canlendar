@@ -99,6 +99,9 @@
     -webkit-transform: translateX(-33.3333%);
      transform: translateX(-33.3333%);
 }
+.calendar .calendar-weeklist{
+    height: 34px;
+}
 .calendar .calendar-week.close,
 .calendar .calendar-list.close,
 .calendar .calendar-weeklist.close{
